@@ -189,13 +189,11 @@ const Login = () => {
         }
         promoInfo={
           <span style={{ fontSize: 14, lineHeight: 1 }}>
-            This is just a fork of the MinIO Console for my own personal
-            educational purposes, and therefore it incorporates MinIO® source
-            code. You may also want to look for other maintained forks.
+            This is just a fork of the MinIO Console therefore it incorporates MinIO® 
+            source code. You may also want to look for other maintained forks.
             <br></br>
             It is important to note that <strong>MINIO</strong> is a registered
-            trademark of the MinIO Corporation. Consequently, this project is
-            not affiliated with or endorsed by the MinIO Corporation.
+            trademark of the MinIO Corporation.
           </span>
         }
       />
