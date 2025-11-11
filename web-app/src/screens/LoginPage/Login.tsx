@@ -194,6 +194,8 @@ const Login = () => {
             <br></br>
             It is important to note that <strong>MINIO</strong> is a registered
             trademark of the MinIO Corporation.
+            </br>
+            thank you code from:  https://github.com/georgmangold/console/
           </span>
         }
       />
